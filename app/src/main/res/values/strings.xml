@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Gachbariya Madrasha</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Start">Start</string>
+    <string name="Close">Close</string>
+    <string name="madrasha_tottho">আমাদের প্রধান উদ্দেশ্য হল মহান আল্লাহ্‌ পাকের সন্তুষ্টি অর্জন। এছাড়া শুদ্ধরূপে কোরআন তিলাওয়াত ও দৈনন্দিন জীবনকে ইসলামী মতাদর্শে সম্পূর্ণরূপে সাজানো। আর সম্পূর্ণরূপে দৈনন্দিন জীবনকে ইসলামী মতাদর্শে সাজানোর শিক্ষা পেতে হলে কোরআন-হাদিসের শিক্ষার কোন বিকল্প নাই। তাই পরিপূর্ণ ইসলামী ধারণা ও জ্ঞান অর্জনই আমাদের মুখ্য উদ্দেশ্য। </string>
+    <string name="our_mission">আমাদের উদ্দেশ্যঃ</string>
+    <string name="madrasha_tottho_24">নূরানি তথা বাংলাদেশ কোরআন শিক্ষা বোর্ড এর অধীনে সহিহ কোরআন ও বিশুদ্ধরূপে তিলাওয়াত শিক্ষা দেওয়া হয়। প্লে থেকে বাংলা, গণিত, ইংরেজি সহ কোরআন-হাদিস, আরবি সাহিত্য চতুর্থ শ্রেণি পর্যন্ত শিক্ষা দেওয়া হয়। প্রাইমারী এবং এবতেদায়ি এর সমমান এবং কওমি , উর্দু জামাত, তাইছির জামাত, মিজান জামাত, নাজেরা, হেফজ খানা, হদর তিলাওয়াত, হুফফাজ ট্রেনিং প্রাপ্ত শিক্ষক দ্বারা পরিচালিত হচ্ছে।</string>
+    <string name="our_services">আমাদের শিক্ষাব্যবস্থাঃ</string>
+    <string name="study_topic">পাঠদানের বিষয়সমূহঃ-</string>
+    <string name="Quranandtamjid">কুরআন ও তাজবিদ</string>
+    <string name="arbisahitto">আরবি সাহিত্য</string>
+    <string name="urdukitab">উর্দু কিতাব</string>
+    <string name="islamiyat">ইসলামিয়াত</string>
+    <string name="bengali">বাংলা</string>
+    <string name="ingreji">ইংরেজি</string>
+    <string name="gonit">গণিত</string>
+    <string name="computer_prosikkhon">কম্পিউটার প্রশিক্ষণ</string>
+    <string name="hefjobivag">হেফজ বিভাগ</string>
+    <string name="keratbivag">কেরাত বিভাগ</string>
+    <string name="jogajoger">যোগাযোগের ঠিকানাঃ-</string>
+    <string name="prodhansikkhokh_information">প্রধান শিক্ষকঃ আলহাজ্ব মাওঃ মোঃ ইলিয়াছ হোসেন মোল্লা</string>
+    <string name="phon">ফোনঃ- ০১৭৫৬৮২৯০৯১</string>
+    <string name="elias01756829091_gmail_com">ইমেইলঃ- elias01756829091@gmail.com</string>
+    <string name="amaderapp">প্লেস্টোরে আমাদের অ্যাপঃ- </string>
+    <string name="gachbariyamadrasha">গাছবাড়িয়া মাদ্রাসা</string>
+    <string name="tottho_anything">Hello I am a developer. Please help me all time to perform this.</string>
+    <string name="mahmud_islam">Mahmud Islam</string>
+    <string name="principal">Principal</string>
+    <string name="mahmud0639_gmail_com">mahmud0639@gmail.com</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="madrasahar_tottho">মাদ্রাসার তথ্যসমূহ</string>
+    <string name="sikkhokh_chatro_tottho">শিক্ষক এবং ছাত্র তথ্য</string>
+    <string name="prochar_prokashona">প্রচার ও প্রকাশনা সমূহ</string>
+    <string name="onnanno">অন্যান্য</string>
+    <string name="boisisto1">আবাসিক ছাত্রদের সঠিকভাবে সার্বক্ষণিক খেয়াল  </string>
+    <string name="madrasaha_tottho23">গাছবাড়িয়া জামিয়া কারীমিয়া কওমি মাদ্রাসা প্রতিষ্ঠিত হয় ২০১২ সালে। মাদ্রাসাটির প্রতিষ্ঠাতা আলহাজ মাওঃ মোঃ ইলিয়াছ হোসেন মোল্লা। মাদ্রাসাটির অবস্থানঃ গাছবাড়িয়া বাইতুন নুর জামে মসজিদ সংলগ্ন, পেয়ারপুর, সদর মাদারীপুর।   </string>
+    <string name="madrasha_information_pdf_file">Madrasha Information pdf file</string>
+
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Dark Theme</item>
+        <item>Light Theme</item>
+
+    </string-array>
+</resources>
